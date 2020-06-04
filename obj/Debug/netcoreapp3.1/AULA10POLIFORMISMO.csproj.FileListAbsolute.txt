@@ -1,0 +1,13 @@
+C:\Users\vinicius\Documents\AULA10POLIFORMISMO\bin\Debug\netcoreapp3.1\AULA10POLIFORMISMO.exe
+C:\Users\vinicius\Documents\AULA10POLIFORMISMO\bin\Debug\netcoreapp3.1\AULA10POLIFORMISMO.deps.json
+C:\Users\vinicius\Documents\AULA10POLIFORMISMO\bin\Debug\netcoreapp3.1\AULA10POLIFORMISMO.runtimeconfig.json
+C:\Users\vinicius\Documents\AULA10POLIFORMISMO\bin\Debug\netcoreapp3.1\AULA10POLIFORMISMO.runtimeconfig.dev.json
+C:\Users\vinicius\Documents\AULA10POLIFORMISMO\bin\Debug\netcoreapp3.1\AULA10POLIFORMISMO.dll
+C:\Users\vinicius\Documents\AULA10POLIFORMISMO\bin\Debug\netcoreapp3.1\AULA10POLIFORMISMO.pdb
+C:\Users\vinicius\Documents\AULA10POLIFORMISMO\obj\Debug\netcoreapp3.1\AULA10POLIFORMISMO.csprojAssemblyReference.cache
+C:\Users\vinicius\Documents\AULA10POLIFORMISMO\obj\Debug\netcoreapp3.1\AULA10POLIFORMISMO.csproj.CoreCompileInputs.cache
+C:\Users\vinicius\Documents\AULA10POLIFORMISMO\obj\Debug\netcoreapp3.1\AULA10POLIFORMISMO.AssemblyInfoInputs.cache
+C:\Users\vinicius\Documents\AULA10POLIFORMISMO\obj\Debug\netcoreapp3.1\AULA10POLIFORMISMO.AssemblyInfo.cs
+C:\Users\vinicius\Documents\AULA10POLIFORMISMO\obj\Debug\netcoreapp3.1\AULA10POLIFORMISMO.dll
+C:\Users\vinicius\Documents\AULA10POLIFORMISMO\obj\Debug\netcoreapp3.1\AULA10POLIFORMISMO.pdb
+C:\Users\vinicius\Documents\AULA10POLIFORMISMO\obj\Debug\netcoreapp3.1\AULA10POLIFORMISMO.genruntimeconfig.cache
